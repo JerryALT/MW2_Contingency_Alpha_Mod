@@ -12,7 +12,7 @@ Mod which restored cut submarine segment with sounds from MW2 alpha 482 build.
 4. Copy the .zip contents into your cod mw2 root folder.
 5. Launch the game and run the 'Contingency' mission.
 
-How to compile from source? (For advanced users)
+# How to compile from source? (For advanced users)
 1. Download the main mod logic for cod mw2 **[here](https://github.com/JerryALT/MW2_SP_mod_logic/releases/tag/v1.0.0)**
 2. Copy the .zip contents into your cod mw2 root folder. If you have a replacement offer iw4sp.exe then you need read "Information before installing" first point.
 3. Download source code **[here](https://github.com/JerryALT/MW2_Contingency_Alpha_Mod/releases/latest/)**
