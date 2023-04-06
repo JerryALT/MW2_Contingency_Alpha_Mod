@@ -1,6 +1,10 @@
 # MW2_Contingency_Alpha_Mod
 Mod which restored cut submarine segment with sounds from MW2 alpha 482 build.
 
+- Gameplay:
+[![Gameplay](https://img.youtube.com/vi/lxtcbFT2JbY/maxresdefault.jpg)](https://youtu.be/lxtcbFT2JbY)
+
+
 # Information before installing
 * Before installation recommend make backup "iw4sp.exe". Just rename your "iw4sp.exe" on "iw4sp_orig.exe".
 * This mod not compatible with IW4x SP.
